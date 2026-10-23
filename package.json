@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "name": "assignment-13",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000s\u0000s\u0000i\u0000g\u0000n\u0000m\u0000e\u0000n\u0000t\u00001\u00003\u0000-\u0000n\u0000o\u0000d\u0000e\u0000.\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "scripts": {
+    "startdev": "tsx src/index.ts tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadraMohammed/Assignment13-node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NadraMohammed/Assignment13-node.js/issues"
+  },
+  "homepage": "https://github.com/NadraMohammed/Assignment13-node.js#readme"
+}
